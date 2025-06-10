@@ -6,4 +6,6 @@ venv/
 .cache/
 models/
 guarling/
-.ipynb_checkpoints/
+.ipynb_checkpoints/notebooks/*.pt
+notebooks/*.pt
+
